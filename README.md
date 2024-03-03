@@ -12,7 +12,8 @@ My expertise spans across a variety of programming languages, including:
 - MATLAB
 - R
 
-Each language has its unique charm and challenges, and I've embraced them all, using them to build robust and secure applications.
+### Articles
+[Prebit.io security review](https://mirror.xyz/0xbB279b0f64F0B86922e465725E93688671Ac6201/TPEmO_8rxN3Eex9rDbP3k38_HhGHphOS8B_tJlW3IPU)
 
 ### 🌱 Currently Learning
 
