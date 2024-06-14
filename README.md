@@ -7,6 +7,8 @@ I'm a passionate programmer with a keen interest in Crypto, Blockchain, and Secu
 My expertise spans across a variety of programming languages, including:
 
 - Solidity
+- yul
+- huff
 - Python
 - C++
 - MATLAB
