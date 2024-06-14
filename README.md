@@ -7,12 +7,17 @@ I'm a passionate programmer with a keen interest in Crypto, Blockchain, and Secu
 My expertise spans across a variety of programming languages, including:
 
 - Solidity
-- yul
-- huff
+- Yul
+- Huff
 - Python
+- Vyper
 - C++
 - MATLAB
 - R
+
+## Currently Learning 
+- Formal Verification and Symbolic Execution using [Certora Prover](certora.com)
+- Smart Contract and ZK development using Rust
 ### Audit Reports
 For more info about Audit Reports visit this repo: [Security Reviews](https://github.com/4rdii/Securtiy-Reviews)
 ### Articles
