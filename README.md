@@ -23,12 +23,9 @@ My expertise spans across a variety of programming languages, including:
 For more info about Audit Reports visit this repo: [Security Reviews](https://github.com/4rdii/Securtiy-Reviews)
 
 ### Other Projects
-- Nobitex Crypto Exchange Rest API python Library: [Nobitex Lib](https://github.com/4rdii/Nobitex-Python-API)
 - String Art Image Process Algorithm and Voice/Animation Generator [Salwa-desgin](https://salwadesign.com/?lang=ar)
 - Instagram customer messages Analysis for Salwa Design - [Instagram Analysis](https://github.com/4rdii/instagram-message-analysis)
-- Currently Working On Tehran Bourse Onchain API and Tokenized Asset using Chainlink Functions based on: [Real-world Tokenized Assets](https://github.com/PatrickAlphaC/rwa-creator)
-### Articles
-[Prebit.io security review](https://mirror.xyz/0xbB279b0f64F0B86922e465725E93688671Ac6201/TPEmO_8rxN3Eex9rDbP3k38_HhGHphOS8B_tJlW3IPU)
+- Currently Working On Stock Onchain Price API and Tokenized Asset using Chainlink Functions based on: [Real-world Tokenized Assets](https://github.com/PatrickAlphaC/rwa-creator)
 
 
 ### Collaboration
