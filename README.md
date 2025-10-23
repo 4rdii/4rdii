@@ -18,6 +18,7 @@ My expertise spans across a variety of programming languages, including:
 
 ## Currently Learning 
 - Formal Verification and Symbolic Execution using [Certora Prover](certora.com)
+- Zero Knowledge Proofs
   
 ### Audit Reports
 For more info about Audit Reports visit this repo: [Security Reviews](https://github.com/4rdii/Securtiy-Reviews)
